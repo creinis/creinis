@@ -1,4 +1,3 @@
-```!Top Langs ```
 !Top Langs
 
 <!--
