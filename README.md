@@ -1,4 +1,4 @@
-<body backgroundcolor="black">
+<body backgroundColor="black">
 🌍 Germany
 
 Available WorldWide
