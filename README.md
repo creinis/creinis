@@ -3,8 +3,10 @@
   
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" height="50" alt="Photoshop" /></a>  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50" height="50" alt="Illustrator" /></a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50" height="50" alt="Figma" /></a>  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="50" height="50" alt="MacOS" /></a>
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&card_width=320" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent" />
+</a>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent)
-
-
-![Creinis's GitHub stats](https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent)
