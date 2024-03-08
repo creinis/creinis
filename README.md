@@ -7,4 +7,4 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent)
 
 
-[![Creinis GitHub stats](https://github-readme-stats.vercel.app/api?username=creinis)](https://github.com/creinis/github-readme-stats)
+[![Creinis GitHub stats](https://github-readme-stats.vercel.app/api?username=creinis)](https://github.com/creinis/github-readme-stats&theme=transparent)
