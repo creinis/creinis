@@ -5,6 +5,7 @@
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&langs_count=12)
 
 
 [![Creinis GitHub stats](https://github-readme-stats.vercel.app/api?username=creinis)](https://github.com/creinis/github-readme-stats)
