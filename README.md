@@ -4,8 +4,7 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="50" height="50" alt="Photoshop" /></a>  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="50" height="50" alt="Illustrator" /></a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50" height="50" alt="Figma" /></a>  <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="50" height="50" alt="MacOS" /></a>
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&langs_count=12)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=12)
 
 
 [![Creinis GitHub stats](https://github-readme-stats.vercel.app/api?username=creinis)](https://github.com/creinis/github-readme-stats)
