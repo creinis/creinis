@@ -6,3 +6,5 @@
 <div>
  <a href="https://github.com/creinis" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
+
+[![Creinis GitHub stats](https://github-readme-stats.vercel.app/api?username=creinis)](https://github.com/creinis/github-readme-stats)
