@@ -27,7 +27,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent" />
 </a>
 
  
