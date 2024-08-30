@@ -27,7 +27,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=creinis&show_icons=true&theme=transparent&rank_icon=percentile" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app)](https://github.com/creinis/github-readme-activity-graph)
+ 
