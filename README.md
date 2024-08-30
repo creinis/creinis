@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; padding: 2; margin-top: 4">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" />
-    <img src="https://th.bing.com/th/id/OIP.W8VlhHtoSH8za0BTreKM4gAAAA?rs=1&pid=ImgDetMain" width="50" height="50" alt="NodeJS" />
+    <img src="https://victorroblesweb.es/wp-content/uploads/2018/01/nodejs-victorroblesweb.png" width="50" height="50" alt="NodeJS" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" />
     <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="50" height="50" alt="MySQL" />
