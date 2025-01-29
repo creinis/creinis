@@ -13,7 +13,7 @@
 </div>
 <div style="display: flex; align-items: center; padding: 4; margin-top: 4">
     <img src="https://img.icons8.com/color/75/000000/numpy.png" width="50" height="50" alt="Numpy" style="margin: 10px 15px 0 15px;" />
-    <img src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" width="50" height="50" alt="Pandas" style="margin: 10px 15px 0 15px;" />
+    <img src="https://p.kindpng.com/picc/s/574-5747046_python-pandas-logo-transparent-hd-png-download.png" height="50" alt="Pandas" style="margin: 10px 15px 0 15px;" />
     <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="50" alt="Seaborn" style="margin: 10px 15px 0 15px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" height="50" alt="Matplotlib" style="margin: 10px 15px 0 15px;" />
     <img src="https://static.wixstatic.com/media/2826fb_ff2e06dae16c47d99f31242123ff3b28~mv2.png/v1/crop/x_0,y_51,w_2000,h_1897/fill/w_156,h_148,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2022-scipy-logos-final-2000x2000.png" width="50" height="50" alt="ScyPy" style="margin: 10px 15px 0 15px;" />
