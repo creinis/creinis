@@ -22,7 +22,7 @@
 <div style="display: flex; align-items: center; padding: 4; margin-top: 4">
     <img src="https://aptuz-static-bucket.s3.amazonaws.com/static/img/django.png" height="50" alt="Django" />
     <img src="https://www.planeks.net/wp-content/uploads/2021/04/1-removebg-preview.png" height="50" alt="Flask" />
-    <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="50" height="50" alt="Jupyter" />
+    <img src="https://www.nicepng.com/png/full/70-701999_jupyter-logo.png" width="50" height="50" alt="Jupyter" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="50" height="50" alt="Bootstrap" />
     <img src="https://img.icons8.com/color/75/000000/tailwindcss.png" width="50" height="50" alt="Tailwind CSS" />
 </div>
