@@ -1,16 +1,19 @@
 <p align="center">
-  <!-- Camada 1: Core (Django, Python, DevOps, Bancos, Deploy) -->
-  <img src="https://skillicons.dev/icons?i=py,django,docker,bash,aws,redis,postgres,mysql,mongodb,postman,nginx,heroku,sequelize&perline=13" />
+  <!-- Linha 1 – Core principal (Django, Python, bancos, ferramentas essenciais) -->
+  <img src="https://skillicons.dev/icons?i=bash,aws,redis,postgres,mysql,py,django,docker,mongodb,postman,nginx,heroku,sequelize&perline=13" />
   <br />
-  <!-- Camada 2: Frontend (sem HTML/SASS/Redux) -->
-  <img src="https://skillicons.dev/icons?i=css,js,ts,react,nextjs,tailwind,bootstrap,jquery,d3,htmx,threejs&perline=13" />
+  <!-- Linha 2 – Backend avançado + libs complementares (Node.js, npm, jQuery, D3, etc.) -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,express,sentry,regex,nodejs,npm,jquery,d3,jest,git,githubactions,yarn&perline=13" />
   <br />
-  <!-- Camada 3: Outros runtimes, linguagens e ferramentas -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,express,nodejs,npm,sentry,regex&perline=13" />
+  <!-- Linha 3 – DevOps, testes e deploy (Docker, Kubernetes, Jenkins, Prometheus, etc.) -->
+  <img src="https://skillicons.dev/icons?i=nginx,heroku,sequelize,postman,githubactions,gitlab,docker,kubernetes,jenkins,terraform,ansible,prometheus,grafana&perline=13" />
   <br />
+  <!-- Linha 4 – Frontend moderno (React, Next.js, Tailwind, Bootstrap, etc.) -->
+  <img src="https://skillicons.dev/icons?i=css,js,ts,tailwind,bootstrap,react,nextjs,htmx,threejs,materialui,chakra,antdesign,storybook&perline=13" />
 </p>
+
+<!-- Stats do GitHub centralizados lado a lado -->
 <p align="center">
-  <br />
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&count_private=true&cache_seconds=1800">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=creinis&layout=compact&langs_count=20&theme=transparent&count_private=true&cache_seconds=1800" />
   </a>
