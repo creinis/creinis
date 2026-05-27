@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Linha 1 – Core principal (Django, Python, bancos, ferramentas essenciais) -->
-  <img src="https://skillicons.dev/icons?i=bash,redis,postgres,py,django,git,sql,mongodb,postman,sequelize&perline=10" />
+  <img src="https://skillicons.dev/icons?i=bash,redis,postgres,py,django,git,mongodb,postman,sequelize&perline=10" />
   <br />
   <!-- Linha 2 – Backend avançado + libs complementares (Node.js, npm, jQuery, D3, etc.) -->
   <img src="https://skillicons.dev/icons?i=cs,express,sentry,nodejs,jquery,d3&perline=10" />
